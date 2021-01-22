@@ -29,14 +29,14 @@
     "portrait": false,
     "upsideDown": false
   },
-  "packageName": "org.cocos2d.start_project",
+  "packageName": "org.cocos2d.gainStar",
   "qqplay": {
     "REMOTE_SERVER_ROOT": "",
     "orientation": "portrait",
     "zip": false
   },
   "startScene": "4b6770c5-b392-46c4-ae12-3537a627072f",
-  "title": "start_project",
+  "title": "gainStar",
   "webOrientation": "auto",
   "wechatgame": {
     "REMOTE_SERVER_ROOT": "",
